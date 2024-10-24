@@ -6,5 +6,6 @@ O projeto consiste em um utilizar o algoritmo Minimax para resolver o jogo da ve
 ## 📋 Licença
 Este projeto utiliza a licença [MIT](https://opensource.org/license/mit).
 
-## 🧑‍🎓 Colaborador
+## 🧑‍🎓 Colaboradores
+* [Victor Hugo Barbosa](https://github.com/victorhugobarbosa)
 * [Pedro Nunes](https://github.com/Bey0ndzin)
